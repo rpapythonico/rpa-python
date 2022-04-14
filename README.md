@@ -1,6 +1,16 @@
 ## [![Logo](https://i.imgur.com/E3mftQr.png)](https://www.python.org/)
 
-## <img src="https://img.icons8.com/external-prettycons-flat-prettycons/50/000000/external-books-education-prettycons-flat-prettycons.png" style="height:20px;width:20px;"/> Materiais de Apoio
+<p align="center">
+  <a href="#books-materiais-de-apoio">Materiais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#clipboard-documentações">Documentações</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#label-resumo-dos-arquivos">Arquivos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#snake-extensões---vscode">Extensões</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#warning-apêndice">Apêndice</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#link-mídias-sociais">Mídias Sociais</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#pencil2-autores">Autores</a>
+</p>
+
+## :books: Materiais de Apoio
 
  - [Aula 1 - Introdução, Variáveis, Tipagem, Condicionais e Comentários](https://bit.ly/3mpKQ8J)
  - [Aula 2 - Listas, Dicionários e Loopings](https://bit.ly/2Zvfy7w)
@@ -10,7 +20,7 @@
  - [Aula 7 - RegEx e APIs](https://bit.ly/3HsBZM2)
  - [Aula 8 - Email, Banco de Dados e OO](https://bit.ly/3CsyuBj)
 
-## <img src="https://img.icons8.com/stickers/100/000000/documents.png" style="height:20px;width:20px;"/> Documentações
+## :clipboard: Documentações
 
 <table style="border:1px solid black;width:100%;display:table">
     <tr>
@@ -36,7 +46,11 @@
     </tr>
 </table>
 
-## <img src="https://img.icons8.com/external-tulpahn-outline-color-tulpahn/50/000000/external-folder-mobile-user-interface-tulpahn-outline-color-tulpahn.png" style="height:20px;width:20px;"/> Resumo dos Arquivos
+## :label: Resumo dos Arquivos
+
+### Aula 1
+<details>
+    <summary>Clique para expandir!</summary>
 
 #### Aula1 > Demos > [demo_execucao.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula1/Demos/demo_execucao.py)
 
@@ -53,6 +67,11 @@ Script que efetua cálculo de IMC
 #### Aula1 > Exercicios > [demo_google.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula1/Exercicios/validador_eleicao.py)
 
 Script que valida a obrigatoriedade das eleições de acordo com a idade
+</details><br>
+
+### Aula 2
+<details>
+    <summary>Clique para expandir!</summary>
 
 #### Aula2 > Exercicios > [reordenacao.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula2/Exercicios/reordenacao.py)
 
@@ -61,14 +80,86 @@ Script que reordena uma lista
 #### Aula2 > Exercicios > [tabuada.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula2/Exercicios/tabuada.py)
 
 Script que efetua a tabuada de 1 à 10 de um número fornecido pelo usuário
+</details><br>
+
+### Aula 3
+
+<details>
+    <summary>Clique para expandir!</summary>
+
+#### Aula 3 > Exercicios > [ttv_frases.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula3/Exerc%C3%ADcios/ttv_frases.py)
+
+Script que separa a frase escrita e apresenta a primeira palavra, a última palavra, a frase sem o começo e sem o fim, o texto com letras maíúsculas e letras minúsculas.
+
+#### Aula 3 > Exercicios > [ttv_nome.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula3/Exerc%C3%ADcios/ttv_nome.py)
+
+Script que separa o nome completo fornecido e informa o primeiro nome, o último sobrenome e a quantidade de caracteres.
+
+#### Aula 3 > Material > A2022T1 > [Aula_3_Funções,_Manipulações_e_Erros.ipynb](https://github.com/Wilberhg/python-rpa/blob/main/Aula3/Material/A2022T1/Aula_3_Fun%C3%A7%C3%B5es%2C_Manipula%C3%A7%C3%B5es_e_Erros.ipynb)
+
+Projeto em Jupyter Notebook (ou Google Colab) contendo todo o conteúdo apresentado durante a aula da turma A2022T1.
+
+#### Aula 3 > Material > A2022T1 > [aula_3_funções,_manipulações_e_erros.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula3/Material/A2022T1/aula_3_fun%C3%A7%C3%B5es%2C_manipula%C3%A7%C3%B5es_e_erros.py)
+
+Projeto em formato ".py" contendo todo o conteúdo apresentado durante a aula da turma A2022T1.
+</details><br>
+
+### Aula 4
+
+<details>
+    <summary>Clique para expandir!</summary>
+
+#### Aula4 > Arquivos > [censuspopdata.xlsx](https://github.com/Wilberhg/python-rpa/blob/main/Aula4/Arquivos/censuspopdata.xlsx)
+
+Arquivo XLSX contendo um censo populacional fictício dos EUA.
+
+#### Aula4 > Arquivos > [challenge.xlsx](https://github.com/Wilberhg/python-rpa/blob/main/Aula4/Arquivos/challenge.xlsx)
+
+Arquivo XLSX contendo dados fictícios de pessoas residentes nos EUA.
+
+#### Aula4 > Arquivos > [dadosIbge.xlsx](https://github.com/Wilberhg/python-rpa/blob/main/Aula4/Arquivos/dadosIbge.xlsx)
+
+Arquivo XLSX contendo dados reais retirados do portal [IBGE](https://cnae.ibge.gov.br/?option=com_cnae&view=estrutura&Itemid=6160&ti%20po=cnae&versao_classe=7.0.0&versao_subclasse=) sobre as atividades econômicas e seus devidos códigos.
+
+#### Aula4 > Arquivos > [duesRecords.xlsx](https://github.com/Wilberhg/python-rpa/blob/main/Aula4/Arquivos/duesRecords.xlsx)
+
+Arquivo XLSX contendo dados fíctios de pessoas e suas compras nos meses do ano de 2014.
+
+#### Aula4 > Arquivos > [file_example_XLSX_10.xlsx](https://github.com/Wilberhg/python-rpa/blob/main/Aula4/Arquivos/file_example_XLSX_10.xlsx)
+
+Arquivo XLSX contendo dados fictícios de pessoas ao redor do mundo.
+
+#### Aula4 > Arquivos > [produceSales.xlsx](https://github.com/Wilberhg/python-rpa/blob/main/Aula4/Arquivos/produceSales.xlsx)
+
+Arquivo XLSX contendo dados de produtos à venda em um comércio fictício.
+</details><br>
+
+### Aula 6
+
+<details>
+    <summary>Clique para expandir!</summary>
 
 #### Aula6 > Projeto > [booking.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula6/Projeto/booking.py)
 
 Script do projeto que coleta dados de estadia do Booking utilizando data de check-in, data de check-out e a cidade desejada.
 
+</details><br>
+
+### Aula 7
+
+<details>
+    <summary>Clique para expandir!</summary>
+
 #### Aula7 > Collection > [Aula7.postman_collection.json](https://github.com/Wilberhg/python-rpa/blob/main/Aula7/Collection/Aula7.postman_collection.json)
 
 Arquivo .json que possui um compilado de requisições em APIs públicas demonstrando a arquitetura REST.
+
+</details><br>
+
+### Aula 8
+
+<details>
+    <summary>Clique para expandir!</summary>
 
 #### Aula8 > Demos > [classe_cachorro.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula8/Demos/classe_cachorro.py)
 
@@ -94,19 +185,26 @@ Script contendo automação para efetuar carga no banco de dados SQLite.
 
 Arquivo contendo dados brutos para serem carregados em bancos de dados.
 
-## <img src="https://img.icons8.com/fluency/50/000000/general-warning-sign.png" style="height:24px;width:24px;"/> Apêndice
+</details><br>
+
+## :snake: Extensões - VSCode
+
+- [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+- [autoDocstring - Python Docstring Generator](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring)
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
+- [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+
+## :warning: Apêndice
 
 Horário das aulas: Terças e Quintas - 20:00 às 21:30
 
-## <img src="https://img.icons8.com/external-parzival-1997-flat-parzival-1997/50/000000/external-social-network-touchless-society-parzival-1997-flat-parzival-1997.png" style="height:24px;width:24px;"/> Mídias Sociais
+## :link: Mídias Sociais
 
 <br><a href="https://discord.gg/92sEPZB769"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" style="width:42px;height:42px;align:middle;"></a> <a href="https://t.me/+lfjaLmRvdoUxY2Ix"><img src="https://i.imgur.com/2FjBwkh.png" style="width:42px;height:42px;align:middle;"></a>
 
-## <img src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/64/000000/external-copyright-seo-flatart-icons-lineal-color-flatarticons.png" style="height:24px;width:24px"/> Autores
+## :pencil2: Autores
 
 - [@Wilberhg](https://github.com/Wilberhg)
 - [@ThomashSantos](https://github.com/ThomashSantos)
-
-## <img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-copyright-seo-and-media-flatart-icons-flat-flatarticons-1.png" style="height:24px;width:24px"/> Créditos
-
-#### Ícones distribuídos por [Icons8](https://icons8.com/)
