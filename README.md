@@ -1,6 +1,6 @@
 ## [![Logo](https://i.imgur.com/E3mftQr.png)](https://www.python.org/)
 
-## <img src="https://img.icons8.com/external-prettycons-flat-prettycons/50/000000/external-books-education-prettycons-flat-prettycons.png" style="height:20px;width:20px;"/> Materiais de Apoio
+## <img src="https://img.icons8.com/external-prettycons-flat-prettycons/50/000000/external-books-education-prettycons-flat-prettycons.png" style="height:20px;width:20px;"/> Resumos das Aulas
 
  - [Aula 1 - Introdução, Variáveis, Tipagem, Condicionais e Comentários](https://bit.ly/3mpKQ8J)
  - [Aula 2 - Listas, Dicionários e Loopings](https://bit.ly/2Zvfy7w)
@@ -36,23 +36,23 @@
     </tr>
 </table>
 
-## <img src="https://img.icons8.com/external-tulpahn-outline-color-tulpahn/50/000000/external-folder-mobile-user-interface-tulpahn-outline-color-tulpahn.png" style="height:20px;width:20px;"/> Resumo dos Arquivos
+## <img src="https://img.icons8.com/external-tulpahn-outline-color-tulpahn/50/000000/external-folder-mobile-user-interface-tulpahn-outline-color-tulpahn.png" style="height:20px;width:20px;"/> Materiais de Apoio
 
-#### Aula1 > Demos > [demo_execucao.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula1/Demos/demo_execucao.py)
+### Aula 1 - [Introdução, Variáveis, Tipagem, Condicionais e Comentários](/aula-1)
 
-Demonstração de erro no Python
+### Aula 2 - [Listas, Dicionários e Loopings]()
 
-#### Aula1 > Demos > [demo_google.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula1/Demos/demo_google.py)
+### Aula 3 - [Funções, Strings, Erros e Datas]()
 
-Demonstração do Selenium executando uma interação web
+### Aula 4 - [Bibliotecas, Excel e TXTs]()
 
-#### Aula1 > Exercicios > [calculadora_imc.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula1/Exercicios/calculadora_imc.py)
+### Aula 5 - [Selenium e BeautifulSoup]()
 
-Script que efetua cálculo de IMC
+### Aula 6 - [Projetos Práticos]()
 
-#### Aula1 > Exercicios > [demo_google.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula1/Exercicios/validador_eleicao.py)
+### Aula 7 - [RegEx e APIs]()
 
-Script que valida a obrigatoriedade das eleições de acordo com a idade
+### Aula 8 - [Email, Banco de Dados e OO]()
 
 #### Aula2 > Exercicios > [reordenacao.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula2/Exercicios/reordenacao.py)
 
