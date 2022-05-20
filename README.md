@@ -1,3 +1,5 @@
+# RPA Pythonico
+
 ## [![Logo](https://i.imgur.com/E3mftQr.png)](https://www.python.org/)
 
 ## <img src="https://img.icons8.com/external-prettycons-flat-prettycons/50/000000/external-books-education-prettycons-flat-prettycons.png" style="height:20px;width:20px;"/> Resumos das Aulas
@@ -40,19 +42,19 @@
 
 ### Aula 1 - [Introdução, Variáveis, Tipagem, Condicionais e Comentários](/aula-1)
 
-### Aula 2 - [Listas, Dicionários e Loopings]()
+### Aula 2 - [Listas, Dicionários e Loopings](/aula-2)
 
-### Aula 3 - [Funções, Strings, Erros e Datas]()
+### Aula 3 - [Funções, Strings, Erros e Datas](/aula-3)
 
-### Aula 4 - [Bibliotecas, Excel e TXTs]()
+### Aula 4 - [Bibliotecas, Excel e TXTs](/aula-4)
 
-### Aula 5 - [Selenium e BeautifulSoup]()
+### Aula 5 - [Selenium e BeautifulSoup](/aula-5)
 
-### Aula 6 - [Projetos Práticos]()
+### Aula 6 - [Projetos Práticos](/aula-6)
 
-### Aula 7 - [RegEx e APIs]()
+### Aula 7 - [RegEx e APIs](/aula-7)
 
-### Aula 8 - [Email, Banco de Dados e OO]()
+### Aula 8 - [Email, Banco de Dados e OO](/aula-8)
 
 #### Aula2 > Exercicios > [reordenacao.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula2/Exercicios/reordenacao.py)
 
