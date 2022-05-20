@@ -1,4 +1,8 @@
-# RPA Pythonico
+<header>
+    <h1>
+        RPA Pythonico
+    </h1>
+</header>
 
 ## [![Logo](https://i.imgur.com/E3mftQr.png)](https://www.python.org/)
 
@@ -40,61 +44,14 @@
 
 ## <img src="https://img.icons8.com/external-tulpahn-outline-color-tulpahn/50/000000/external-folder-mobile-user-interface-tulpahn-outline-color-tulpahn.png" style="height:20px;width:20px;"/> Materiais de Apoio
 
-### Aula 1 - [Introdução, Variáveis, Tipagem, Condicionais e Comentários](/aula-1)
-
-### Aula 2 - [Listas, Dicionários e Loopings](/aula-2)
-
-### Aula 3 - [Funções, Strings, Erros e Datas](/aula-3)
-
-### Aula 4 - [Bibliotecas, Excel e TXTs](/aula-4)
-
-### Aula 5 - [Selenium e BeautifulSoup](/aula-5)
-
-### Aula 6 - [Projetos Práticos](/aula-6)
-
-### Aula 7 - [RegEx e APIs](/aula-7)
-
-### Aula 8 - [Email, Banco de Dados e OO](/aula-8)
-
-#### Aula2 > Exercicios > [reordenacao.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula2/Exercicios/reordenacao.py)
-
-Script que reordena uma lista
-
-#### Aula2 > Exercicios > [tabuada.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula2/Exercicios/tabuada.py)
-
-Script que efetua a tabuada de 1 à 10 de um número fornecido pelo usuário
-
-#### Aula6 > Projeto > [booking.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula6/Projeto/booking.py)
-
-Script do projeto que coleta dados de estadia do Booking utilizando data de check-in, data de check-out e a cidade desejada.
-
-#### Aula7 > Collection > [Aula7.postman_collection.json](https://github.com/Wilberhg/python-rpa/blob/main/Aula7/Collection/Aula7.postman_collection.json)
-
-Arquivo .json que possui um compilado de requisições em APIs públicas demonstrando a arquitetura REST.
-
-#### Aula8 > Demos > [classe_cachorro.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula8/Demos/classe_cachorro.py)
-
-Script contendo uma visão inicial sobre Orientação à Objetos utilizando como base uma classe "Cachorro".
-
-#### Aula8 > Demos > [email_com_ou_sem_anexo.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula8/Demos/email_com_ou_sem_anexo.py)
-
-Script contendo disparo de email utilizando o protocolo SMTP.
-
-#### Aula8 > Materiais > [SUCOS_VENDAS.BAK](https://github.com/Wilberhg/python-rpa/blob/main/Aula8/Materiais/SUCOS_VENDAS.BAK)
-
-Arquivo de backup com tabelas do banco de dados MS SQL. Créditos: [Alura](https://www.alura.com.br/)
-
-#### Aula8 > Materiais > [aula8.db](https://github.com/Wilberhg/python-rpa/blob/main/Aula8/Materiais/aula8.db)
-
-Arquivo de backup com tabelas do banco de dados SQLite.
-
-#### Aula8 > Materiais > [carregar_banco.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula8/Materiais/carregar_banco.py)
-
-Script contendo automação para efetuar carga no banco de dados SQLite.
-
-#### Aula8 > Materiais > [data.json](https://github.com/Wilberhg/python-rpa/blob/main/Aula8/Materiais/data.json)
-
-Arquivo contendo dados brutos para serem carregados em bancos de dados.
+- Aula 1 - [Introdução, Variáveis, Tipagem, Condicionais e Comentários](/aula-1)
+- Aula 2 - [Listas, Dicionários e Loopings](/aula-2)
+- Aula 3 - [Funções, Strings, Erros e Datas](/aula-3)
+- Aula 4 - [Bibliotecas, Excel e TXTs](/aula-4)
+- Aula 5 - [Selenium e BeautifulSoup](/aula-5)
+- Aula 6 - [Projetos Práticos](/aula-6)
+- Aula 7 - [RegEx e APIs](/aula-7)
+- Aula 8 - [Email, Banco de Dados e OO](/aula-8)
 
 ## <img src="https://img.icons8.com/fluency/50/000000/general-warning-sign.png" style="height:24px;width:24px;"/> Apêndice
 
